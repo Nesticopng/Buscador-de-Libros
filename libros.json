@@ -1,0 +1,149 @@
+[
+    {
+      "isbn": "9780441172719",
+      "nombre": "Dune",
+      "autor": "Frank Herbert",
+      "edicion": "1",
+      "categoria": "Ciencia Ficción"
+    },
+    {
+      "isbn": "9788478888566",
+      "nombre": "Harry Potter y la piedra filosofal",
+      "autor": "J.K. Rowling",
+      "edicion": "2",
+      "categoria": "Fantasía"
+    },
+    {
+      "isbn": "9788445000042",
+      "nombre": "El Señor de los Anillos: La Comunidad del Anillo",
+      "autor": "J.R.R. Tolkien",
+      "edicion": "5",
+      "categoria": "Fantasía"
+    },
+    {
+      "isbn": "9788466368432",
+      "nombre": "Cien años de soledad",
+      "autor": "Gabriel García Márquez",
+      "edicion": "3",
+      "categoria": "Realismo Mágico"
+    },
+    {
+      "isbn": "9788432233435",
+      "nombre": "1984",
+      "autor": "George Orwell",
+      "edicion": "4",
+      "categoria": "Distopía"
+    },
+    {
+      "isbn": "9788401337110",
+      "nombre": "Cazadores de sombras: Ciudad de hueso",
+      "autor": "Cassandra Clare",
+      "edicion": "1",
+      "categoria": "Fantasía Urbana"
+    },
+    {
+      "isbn": "9788420691759",
+      "nombre": "El nombre del viento",
+      "autor": "Patrick Rothfuss",
+      "edicion": "1",
+      "categoria": "Fantasía"
+    },
+    {
+      "isbn": "9788497592799",
+      "nombre": "El Alquimista",
+      "autor": "Paulo Coelho",
+      "edicion": "2",
+      "categoria": "Ficción Inspiracional"
+    },
+    {
+      "isbn": "9788467202130",
+      "nombre": "Los juegos del hambre",
+      "autor": "Suzanne Collins",
+      "edicion": "1",
+      "categoria": "Distopía"
+    },
+    {
+      "isbn": "9789584531995",
+      "nombre": "Crónica de una muerte anunciada",
+      "autor": "Gabriel García Márquez",
+      "edicion": "5",
+      "categoria": "Realismo Mágico"
+    },
+    {
+      "isbn": "9789875666479",
+      "nombre": "Siddhartha",
+      "autor": "Hermann Hesse",
+      "edicion": "1",
+      "categoria": "Ficción Espiritual"
+    },
+    {
+      "isbn": "9788467034423",
+      "nombre": "El código Da Vinci",
+      "autor": "Dan Brown",
+      "edicion": "3",
+      "categoria": "Misterio"
+    },
+    {
+      "isbn": "9788432217541",
+      "nombre": "Fahrenheit 451",
+      "autor": "Ray Bradbury",
+      "edicion": "4",
+      "categoria": "Ciencia Ficción"
+    },
+    {
+      "isbn": "9789875800711",
+      "nombre": "Las uvas de la ira",
+      "autor": "John Steinbeck",
+      "edicion": "1",
+      "categoria": "Ficción Social"
+    },
+    {
+      "isbn": "9789563486950",
+      "nombre": "Rayuela",
+      "autor": "Julio Cortázar",
+      "edicion": "1",
+      "categoria": "Realismo Mágico"
+    },
+    {
+      "isbn": "9788420406770",
+      "nombre": "Crimen y castigo",
+      "autor": "Fyodor Dostoyevsky",
+      "edicion": "6",
+      "categoria": "Ficción Psicológica"
+    },
+    {
+      "isbn": "9786075294623",
+      "nombre": "Los pilares de la Tierra",
+      "autor": "Ken Follett",
+      "edicion": "2",
+      "categoria": "Ficción Histórica"
+    },
+    {
+      "isbn": "9789500423345",
+      "nombre": "El amor en los tiempos del cólera",
+      "autor": "Gabriel García Márquez",
+      "edicion": "1",
+      "categoria": "Realismo Mágico"
+    },
+    {
+      "isbn": "9788417424940",
+      "nombre": "La sombra del viento",
+      "autor": "Carlos Ruiz Zafón",
+      "edicion": "6",
+      "categoria": "Misterio"
+    },
+    {
+      "isbn": "9788483461528",
+      "nombre": "Los hombres que no amaban a las mujeres",
+      "autor": "Stieg Larsson",
+      "edicion": "2",
+      "categoria": "Misterio"
+    },
+    {
+      "isbn": "9788420406459",
+      "nombre": "Don Quijote de la Mancha",
+      "autor": "Miguel de Cervantes Saavedra",
+      "edicion": "3",
+      "categoria": "Ficción Clásica"
+    }
+]
